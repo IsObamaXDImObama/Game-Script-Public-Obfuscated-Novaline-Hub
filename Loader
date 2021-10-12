@@ -4,9 +4,6 @@ _G.GamePlaceId = {
 }
 
 local Supported = {
-	[_G.GamePlaceId["Tower Of Hell"]] = {
-		[1] = "https://raw.githubusercontent.com/IsObamaXDImObama/Blue-Hub/main/Tower-Of-Hell",
-	},
 	[_G.GamePlaceId["Build Boat For Treasure"]] = {
 		[1] = "https://raw.githubusercontent.com/IsObamaXDImObama/Game-Script-Public-Obfuscated-Novaline-Hub/main/Build-Boat-For-Treasure",
 	},
